@@ -8,7 +8,6 @@ Repositório referente a matéria de Arquitetura de Software e desenvolvimento d
 
 - Python 3.8+
 - Django 3.2+
-- Pillow (para manipulação de imagens)
 
 ### Passos para Instalação
 
